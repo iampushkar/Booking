@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HotelApplication {
 
 	public static void main(String[] args) {
-		System.out.println("--------------Manish here---------------");
 		SpringApplication.run(HotelApplication.class, args);
 	}
 
